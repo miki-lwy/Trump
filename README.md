@@ -1,4 +1,4 @@
-# Trump
+# Trump - Political Science
 I've created 3 mini-projects to analyse Trump's tweets
 1) Text analysis of Trump's tweets
   - to understand the tweeting habits/ pattern/ characteristics on different devices
